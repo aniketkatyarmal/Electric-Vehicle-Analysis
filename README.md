@@ -2,9 +2,7 @@
 Electric Vehicle (EV) Analysis - Power BI
 Project Overview
 This project aims to provide a comprehensive analysis of the electric vehicle (EV) market in India, with a focus on 2-wheelers and 4-wheelers. The analysis leverages Power BI to visualize key metrics related to EV sales, growth trends, market penetration, and other critical factors in the EV industry.
-
 The key focus areas of the analysis include:
-
 Sales performance of EV makers across different fiscal years.
 EV penetration in various states in India.
 Quarterly trends for EV sales.
